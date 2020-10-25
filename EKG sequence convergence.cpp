@@ -1,6 +1,4 @@
-//EKG sequence This is a code, written for my discrete mathematics (KAIST CS204B, FALL 2020, 20190760) essay.
-
-
+//EKG sequence. This is a code, written for my discrete mathematics (KAIST CS204B, FALL 2020, 20190760_2) essay.
 
 #include <iostream>
 #include <algorithm>
